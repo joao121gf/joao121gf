@@ -28,10 +28,12 @@
 </div><br/>
 
 ### Últimos projetos:
+- [Provedor de internet - HTML, CSS e JS](https://ipscape.com.br/site/)<br/>
+- [Projeto portifólio - HTML, CSS e JS](https://joao121gf.github.io/projeto-portifolio/)<br/>
 - [Tela de login responsiva - HTML e CSS](https://joao121gf.github.io/tela-de-login/)<br/>
 - [E-commerce de roupas - HTML e CSS](https://joao121gf.github.io/loja-de-roupas/)<br/>
-- [Projeto Social - HTML e CSS](https://joao121gf.github.io/projeto-social/)<br/>
-- [Projeto Cordel - HTML e CSS](https://joao121gf.github.io/projeto-cordel/)<br/>
+
+
 
 
   
