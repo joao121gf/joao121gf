@@ -28,6 +28,7 @@
 </div><br/>
 
 ### Últimos projetos:
+- [RatsFit Academia](https://joao121gf.github.io/academia/)<br/>
 - [Provedor de internet - HTML, CSS e JS](https://ipscape.com.br/site/)<br/>
 - [Projeto portifólio - HTML, CSS e JS](https://joao121gf.github.io/projeto-portifolio/)<br/>
 - [Tela de login responsiva - HTML e CSS](https://joao121gf.github.io/tela-de-login/)<br/>
