@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="visual logo"  />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="visual logo"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div><br/>
