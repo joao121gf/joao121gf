@@ -1,4 +1,4 @@
-Analista de Dados focado em transformar dados em soluções práticas e eficientes. No meu GitHub, compartilho projetos que vão desde análise de dados simples até implementações mais avançadas usando ferramentas como Excel, SQL, Power BI e Python. O objetivo é sempre gerar insights claros e úteis para apoiar decisões estratégicas.
+📊Analista de Dados focado em transformar dados em soluções práticas e eficientes. No meu GitHub, compartilho projetos que vão desde análise de dados simples até implementações mais avançadas usando ferramentas como Excel, SQL, Power BI e Python. O objetivo é sempre gerar insights claros e úteis para apoiar decisões estratégicas.
 
 
 ## Ferramentas utilizadas
